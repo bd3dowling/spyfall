@@ -1,134 +1,134 @@
 locations = [
   {
-    name: 'locations.airplane',
+    name: 'locations.the outing',
     roles: [
-      'locations.roles.airplane.first class passenger',
-      'locations.roles.airplane.air marshall',
-      'locations.roles.airplane.mechanic',
-      'locations.roles.airplane.air hostess',
-      'locations.roles.airplane.copilot',
-      'locations.roles.airplane.captain',
-      'locations.roles.airplane.economy class passenger'
+      'locations.roles.theouting.michael rosen',
+      'locations.roles.theouting.the 15 year old banana',
+      'locations.roles.theouting.harrybos grandad',
+      'locations.roles.theouting.david alexander',
+      'locations.roles.theouting.ms goodell',
+      'locations.roles.theouting.electronic rabit',
+      'locations.roles.theouting.vanilla ice'
     ]
   },
   {
-    name: 'locations.bank',
+    name: 'locations.squating slav alliance',
     roles: [
-      'locations.roles.bank.armored car driver',
-      'locations.roles.bank.manager',
-      'locations.roles.bank.consultant',
-      'locations.roles.bank.robber',
-      'locations.roles.bank.security guard',
-      'locations.roles.bank.teller',
-      'locations.roles.bank.customer'
+      'locations.roles.squating slav alliance.slowland',
+      'locations.roles.squating slav alliance.czechoslowvakia',
+      'locations.roles.squating slav alliance.slowmania',
+      'locations.roles.squating slav alliance.hungary',
+      'locations.roles.squating slav alliance.germany',
+      'locations.roles.squating slav alliance.tuva',
+      'locations.roles.squating slav alliance.communist china'
     ]
   },
   {
-    name: 'locations.beach',
+    name: 'locations.linear algebra',
     roles: [
-      'locations.roles.beach.beach waitress',
-      'locations.roles.beach.kite surfer',
-      'locations.roles.beach.lifeguard',
-      'locations.roles.beach.thief',
-      'locations.roles.beach.beach photographer',
-      'locations.roles.beach.ice cream truck driver',
-      'locations.roles.beach.beach goer'
+      'locations.roles.linear algebra.lrolen',
+      'locations.roles.linear algebra.potato',
+      'locations.roles.linear algebra.salt',
+      'locations.roles.linear algebra.a wild sergei frolov',
+      'locations.roles.linear algebra.jambocomingoutoftheleftfield',
+      'locations.roles.linear algebra.partha',
+      'locations.roles.linear algebra.chriswhythefuckareyouhere'
     ]
   },
   {
-    name: 'locations.cathedral',
+    name: 'locations.league of legends',
     roles: [
-      'locations.roles.cathedral.priest',
-      'locations.roles.cathedral.beggar',
-      'locations.roles.cathedral.sinner',
-      'locations.roles.cathedral.tourist',
-      'locations.roles.cathedral.sponsor',
-      'locations.roles.cathedral.chorister',
-      'locations.roles.cathedral.parishioner'
+      'locations.roles.league of legends.wizard lizard',
+      'locations.roles.league of legends.jewish karthus',
+      'locations.roles.league of legends.renegnar',
+      'locations.roles.league of legends.jambo used to know this game',
+      'locations.roles.league of legends.ban brand',
+      'locations.roles.league of legends.jobser not playing bliztcrank dafuq',
+      'locations.roles.league of legends.diana the lesbian'
     ]
   },
   {
-    name: 'locations.circus tent',
+    name: 'locations.reddit',
     roles: [
-      'locations.roles.circus tent.acrobat',
-      'locations.roles.circus tent.animal trainer',
-      'locations.roles.circus tent.magician',
-      'locations.roles.circus tent.fire eater',
-      'locations.roles.circus tent.clown',
-      'locations.roles.circus tent.juggler',
-      'locations.roles.circus tent.visitor'
+      'locations.roles.reddit.youtubehaiku',
+      'locations.roles.reddit.the_donald',
+      'locations.roles.reddit.wallstreetbets',
+      'locations.roles.reddit.wheredidthesodago',
+      'locations.roles.reddit.me_irl',
+      'locations.roles.reddit.youdontsurf',
+      'locations.roles.reddit.montageparodies'
     ]
   },
   {
-    name: 'locations.corporate party',
+    name: 'locations.mathssoc',
     roles: [
-      'locations.roles.corporate party.entertainer',
-      'locations.roles.corporate party.manager',
-      'locations.roles.corporate party.unwanted guest',
-      'locations.roles.corporate party.owner',
-      'locations.roles.corporate party.secretary',
-      'locations.roles.corporate party.delivery boy',
-      'locations.roles.corporate party.accountant'
+      'locations.roles.mathssoc.jambo',
+      'locations.roles.mathssoc.autisticperson1',
+      'locations.roles.mathssoc.autisticperson2',
+      'locations.roles.mathssoc.autisticperson3',
+      'locations.roles.mathssoc.autisticperson4',
+      'locations.roles.mathssoc.the bitch who gave out for not putting away someone elses chess',
+      'locations.roles.mathssoc.swap chess player'
     ]
   },
   {
-    name: 'locations.crusader army',
+    name: 'locations.twin towers',
     roles: [
-      'locations.roles.crusader army.monk',
-      'locations.roles.crusader army.imprisoned saracen',
-      'locations.roles.crusader army.servant',
-      'locations.roles.crusader army.bishop',
-      'locations.roles.crusader army.squire',
-      'locations.roles.crusader army.archer',
-      'locations.roles.crusader army.knight'
+      'locations.roles.twin towers.george bush',
+      'locations.roles.twin towers.dick cheney',
+      'locations.roles.twin towers.harambe',
+      'locations.roles.twin towers.osamba bin laden',
+      'locations.roles.twin towers.meme man',
+      'locations.roles.twin towers.thanks obama',
+      'locations.roles.twin towers.give us another one'
     ]
   },
   {
-    name: 'locations.casino',
+    name: 'locations.youtubehaiku',
     roles: [
-      'locations.roles.casino.bartender',
-      'locations.roles.casino.head security guard',
-      'locations.roles.casino.bouncer',
-      'locations.roles.casino.manager',
-      'locations.roles.casino.hustler',
-      'locations.roles.casino.dealer',
-      'locations.roles.casino.gambler'
+      'locations.roles.youtubehaiku.enemy spotted',
+      'locations.roles.youtubehaiku.give us another one',
+      'locations.roles.youtubehaiku.the siren',
+      'locations.roles.youtubehaiku.jason bourne',
+      'locations.roles.youtubehaiku.dog_meme',
+      'locations.roles.youtubehaiku.cerceis potg',
+      'locations.roles.youtubehaiku.magnum dong'
     ]
   },
   {
-    name: 'locations.day spa',
+    name: 'locations.junkensteins lecture theatre',
     roles: [
-      'locations.roles.day spa.stylist',
-      'locations.roles.day spa.masseuse',
-      'locations.roles.day spa.manicurist',
-      'locations.roles.day spa.makeup artist',
-      'locations.roles.day spa.dermatologist',
-      'locations.roles.day spa.beautician',
-      'locations.roles.day spa.customer'
+      'locations.roles.junkensteins lecture theatre.bifurnification diagram',
+      'locations.roles.junkensteins lecture theatre.the mandelbrot set',
+      'locations.roles.junkensteins lecture theatre.junkensteins hairdresser',
+      'locations.roles.junkensteins lecture theatre.a pair of well ironed leather trousers',
+      'locations.roles.junkensteins lecture theatre.a wild the potato',
+      'locations.roles.junkensteins lecture theatre.ben doing jambos homework',
+      'locations.roles.junkensteins lecture theatre.professor stefan hutzler'
     ]
   },
   {
-    name: 'locations.embassy',
+    name: 'locations.zaitsevs bedroom',
     roles: [
-      'locations.roles.embassy.security guard',
-      'locations.roles.embassy.secretary',
-      'locations.roles.embassy.ambassador',
-      'locations.roles.embassy.tourist',
-      'locations.roles.embassy.refugee',
-      'locations.roles.embassy.diplomat',
-      'locations.roles.embassy.government official'
+      'locations.roles.zaitsevs bedroom.zaitsevs square matress',
+      'locations.roles.zaitsevs bedroom.zaitsevs orthogonal matress',
+      'locations.roles.zaitsevs bedroom.r/the_monoid',
+      'locations.roles.zaitsevs bedroom.the product of two groups',
+      'locations.roles.zaitsevs bedroom.minus i squared equals 1',
+      'locations.roles.zaitsevs bedroom.brian doesnt know what a homomorphism is',
+      'locations.roles.zaitsevs bedroom.ben hates sets'
     ]
   },
   {
-    name: 'locations.hospital',
+    name: 'locations.andrei paranachevs lecture theatre',
     roles: [
-      'locations.roles.hospital.nurse',
-      'locations.roles.hospital.doctor',
-      'locations.roles.hospital.anesthesiologist',
-      'locations.roles.hospital.intern',
-      'locations.roles.hospital.therapist',
-      'locations.roles.hospital.surgeon',
-      'locations.roles.hospital.patient'
+      'locations.roles.andrei paranachevs lecture theatre.compute continuous integral',
+      'locations.roles.andrei paranachevs lecture theatre.2 pi over 2 also known as pi',
+      'locations.roles.andrei paranachevs lecture theatre.any questions',
+      'locations.roles.andrei paranachevs lecture theatre.the fourier series',
+      'locations.roles.andrei paranachevs lecture theatre.the delta function',
+      'locations.roles.andrei paranachevs lecture theatre.consider this function',
+      'locations.roles.andrei paranachevs lecture theatre.its just algebra'
     ]
   },
   {

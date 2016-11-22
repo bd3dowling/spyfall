@@ -26,17 +26,17 @@
         "footer": "<a href='http://international.hobbyworld.ru/catalog/25-spyfall/' target='_blank'>Spyfall</a> designed by Alexandr Ushan, published by <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>"
     },
     "locations": {
-        "airplane": "Airplane",
-        "bank": "Bank",
-        "beach": "Beach",
-        "cathedral": "Cathedral",
-        "circus tent": "Circus Tent",
-        "corporate party": "Corporate Party",
-        "crusader army": "Crusader Army",
-        "casino": "Casino",
-        "day spa": "Day Spa",
-        "embassy": "Embassy",
-        "hospital": "Hospital",
+        "the outing": "The Outing",
+        "squating slav alliance": "Squating Slav Alliance",
+        "linear algebra": "Linear Algebra",
+        "league of legends": "League of Legends",
+        "reddit": "reddit",
+        "mathssoc": "MathsSoc",
+        "twin towers": "Twin Towers",
+        "youtubehaiku": "r/youtubehaiku",
+        "junkensteins lecture theatre": "Junkenstein's Lecture Theatre",
+        "zaitsevs bedroom": "Zaitsev's Bedroom",
+        "andrei paranachevs lecture theatre": "Andrei Parnachev's Lecture Theatre",
         "hotel": "Hotel",
         "military base": "Military Base",
         "movie studio": "Movie Studio",
@@ -55,104 +55,104 @@
         "university": "University",
         "world war ii squad": "World War II Squad",
         "roles": {
-            "airplane": {
-                "first class passenger": "First Class Passenger",
-                "air marshall": "Air Marshal",
-                "mechanic": "Mechanic",
-                "air hostess": "Air Hostess",
-                "copilot": "Co-Pilot",
-                "captain": "Captain",
-                "economy class passenger": "Economy Class Passenger"
+            "the outing": {
+                "michael rosen": "Michael Rosen",
+                "the 15 year old banana": "The 15 Year Old Banana",
+                "harrybos grandad": "Harrybo's Grandad",
+                "david alexander": "David Alexander",
+                "ms goodell": "Ms Goodell",
+                "electronic rabit": "Electronic Rabit",
+                "vanilla ice": "Vanilla Ice"
             },
-            "bank": {
-                "armored car driver": "Armored Car Driver",
-                "manager": "Manager",
-                "consultant": "Consultant",
-                "robber": "Robber",
-                "security guard": "Security Guard",
-                "teller": "Teller",
-                "customer": "Customer"
+            "squating slav alliance": {
+                "slowland": "Slowland",
+                "czechoslowvakia": "Czechoslowvakia",
+                "slowmania": "Slowmania",
+                "hungary": "Hungary",
+                "germany": "Germany :(",
+                "tuva": "Tuva",
+                "communist china": "Communist China"
             },
-            "beach": {
-                "beach waitress": "Beach Waitress",
-                "kite surfer": "Kite Surfer",
-                "lifeguard": "Lifeguard",
-                "thief": "Thief",
-                "beach photographer": "Beach Photographer",
-                "ice cream truck driver": "Ice Cream Truck Driver",
-                "beach goer": "Beach Goer"
+            "linear algebra": {
+                "lrolen": "~lrolen",
+                "potato": "Potato",
+                "salt": "Salt",
+                "a wild sergei frolov": "A Wild Sergei Frolov",
+                "jambo coming out of the left field": "Jambo coming out of the left field",
+                "partha": "Partha",
+                "chriswhythefuckareyouhere": "Chris why the fuck are you here?"
             },
-            "cathedral": {
-                "priest": "Priest",
-                "beggar": "Beggar",
-                "sinner": "Sinner",
-                "tourist": "Tourist",
-                "sponsor": "Sponsor",
-                "chorister": "Chorister",
-                "parishioner": "Parishioner"
+            "league of legends": {
+                "wizard lizard": "Wizard Lizard",
+                "jewish karthus": "Jewish Karthus",
+                "renegnar": "Renegnar",
+                "jambo used to know this game": "Jambo used to know this game",
+                "ban brand": "Ban Brand",
+                "jobser not playing bliztcrank dafuq": "Jobser not playing Blitzcrank dafuq",
+                "diana the lesbian": "Diana the Lesbia"
             },
-            "circus tent": {
-                "acrobat": "Acrobat",
-                "animal trainer": "Animal Trainer",
-                "magician": "Magician",
-                "fire eater": "Fire Eater",
-                "clown": "Clown",
-                "juggler": "Juggler",
-                "visitor": "Visitor"
+            "reddit": {
+                "youtubehaiku": "r/youtubehaiku",
+                "the_donald": "r/the_donald",
+                "wallstreetbets": "r/wallstreetbets",
+                "wheredidthesodago": "r/wheredidthesodago",
+                "me_irl": "r/me_irl",
+                "youdontsurf": "r/youdontsurf",
+                "montageparodies": "r/montageparodies"
             },
-            "corporate party": {
-                "entertainer": "Entertainer",
-                "manager": "Manager",
-                "unwanted guest": "Unwanted Guest",
-                "owner": "Owner",
-                "secretary": "Secretary",
-                "delivery boy": "Delivery Boy",
-                "accountant": "Accountant"
+            "mathssoc": {
+                "jambo": "Jambo",
+                "autisticperson1": "Autistic Person 1",
+                "autisticperson2": "Autistic Person 2",
+                "autisticperson3": "Autistic Person 3",
+                "autisticperson4": "Autistic Person 4",
+                "the bitch who gave out for not putting away someone elses chess": "The Bitch who gave out for not putting away someone else's chess...",
+                "swap chess player": "Swap-Chess Player"
             },
-            "crusader army": {
-                "monk": "Monk",
-                "imprisoned saracen": "Imprisoned Saracen",
-                "servant": "Servant",
-                "bishop": "Bishop",
-                "squire": "Squire",
-                "archer": "Archer",
-                "knight": "Knight"
+            "twin towers": {
+                "george bush": "George Bush",
+                "dick cheney": "Disk Cheney",
+                "harambe": "Harambe",
+                "osamba bin laden": "Osama Bin Lader",
+                "meme man": "Meme Man",
+                "thanks obama": "Thanks Obama",
+                "give us another one": "Give us another one!"
             },
-            "casino": {
-                "bartender": "Bartender",
-                "head security guard": "Head Security Guard",
-                "bouncer": "Bouncer",
-                "manager": "Manager",
-                "hustler": "Hustler",
-                "dealer": "Dealer",
-                "gambler": "Gambler"
+            "youtubehaiku": {
+                "enemy spotted": "Enemy Spotted",
+                "give us another one": "Give us another one!",
+                "the siren": "The Siren",
+                "jason bourne": "Jesus Christ That's Jason Bourne",
+                "dog_meme": "dog_meme.avi",
+                "cerceis potg": "Cercei's Play of the Game",
+                "magnum dong": "Magnum Dong"
             },
-            "day spa": {
-                "stylist": "Stylist",
-                "masseuse": "Masseuse",
-                "manicurist": "Manicurist",
-                "makeup artist": "Makeup Artist",
-                "dermatologist": "Dermatologist",
-                "beautician": "Beautician",
-                "customer": "Customer"
+            "junkensteins lecture theatre": {
+                "bifurnification diagram": "Bifurnification Diagram",
+                "the mandelbrot set'": "The Mandelbrot Set",
+                "junkensteins hairdresser": "Junkenstein's Hairdresser",
+                "a pair of well ironed leather trousers": "A Pair of Well Ironed Leather Trousers",
+                "a wild the potato": "A Wild The Potato",
+                "ben doing jambos homework": "Ben doing Jambo's Homework",
+                "professor stefan hutzler": "Professor Stefan Hutzler"
             },
-            "embassy": {
-                "security guard": "Security Guard",
-                "secretary": "Secretary",
-                "ambassador": "Ambassador",
-                "tourist": "Tourist",
-                "refugee": "Refugee",
-                "diplomat": "Diplomat",
-                "government official": "Government Official"
+            "zaitsevs bedroom": {
+                "zaitsevs square matress": "Zaitsev's Square Matress",
+                "zaitsevs orthogonal matress": "Zaitsev's Orthogonal Matress",
+                "r/the_monoid": "r/the_monoid",
+                "the product of two groups": "The product of two groups",
+                "minus i squared equals 1": "Minus i squared equals 1",
+                "brian doesnt know what a homomorphism is": "Brian doesn't know what a homomorphism is...",
+                "ben hates sets": "Ben hates sets"
             },
-            "hospital": {
-                "nurse": "Nurse",
-                "doctor": "Doctor",
-                "anesthesiologist": "Anesthesiologist",
-                "intern": "Intern",
-                "therapist": "Therapist",
-                "surgeon": "Surgeon",
-                "patient": "Patient"
+            "andrei paranachevs lecture theatre": {
+                "compute continuous integral": "Compute continuous integral",
+                "2 pi over 2 also known as pi": "2 pi over 2, also known as pi",
+                "any questions": "Any questions?",
+                "the fourier series": "The Fourier Series",
+                "the delta function": "The Delta Function",
+                "consider this function": "Consider this function",
+                "its just algebra": "Its just Algebra"
             },
             "hotel": {
                 "doorman": "Doorman",
