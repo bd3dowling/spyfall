@@ -129,7 +129,7 @@ function generateNewPlayer(game, name){
     gameID: game._id,
     name: name,
     role: null,
-    isSpy: false,
+    isSpy: true,
     isFirstPlayer: false
   };
 
