@@ -73,7 +73,7 @@ Games.find({"state": 'settingUp'}).observeChanges({
 
     players.forEach(function(player, index){
       Players.update(player._id, {$set: {
-        isSpy: true,
+        isSpy: index === spyIndex,
         isFirstPlayer: index === firstPlayerIndex
       }});
     });
