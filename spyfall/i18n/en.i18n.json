@@ -26,286 +26,286 @@
         "footer": "<a href='http://international.hobbyworld.ru/catalog/25-spyfall/' target='_blank'>Spyfall</a> designed by Alexandr Ushan, published by <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>"
     },
     "locations": {
-        "the outing": "The Outing",
-        "squating slav alliance": "Squating Slav Alliance",
-        "linear algebra": "Linear Algebra",
-        "league of legends": "League of Legends",
-        "reddit": "reddit",
-        "mathssoc": "MathsSoc",
-        "twin towers": "Twin Towers",
-        "youtubehaiku": "r/youtubehaiku",
-        "junkensteins lecture theatre": "Junkenstein's Lecture Theatre",
-        "zaitsevs bedroom": "Zaitsev's Bedroom",
-        "andrei paranachevs lecture theatre": "Andrei Parnachev's Lecture Theatre",
-        "hotel": "Hotel",
-        "military base": "Military Base",
-        "movie studio": "Movie Studio",
-        "ocean liner": "Ocean Liner",
-        "passenger train": "Passenger Train",
-        "pirate ship": "Pirate Ship",
-        "polar station": "Polar Station",
-        "police station": "Police Station",
-        "restaurant": "Restaurant",
-        "school": "School",
-        "service station": "Service Station",
-        "space station": "Space Station",
-        "submarine": "Submarine",
-        "supermarket": "Supermarket",
-        "theater": "Theater",
-        "university": "University",
-        "world war ii squad": "World War II Squad",
+        "location1": "",
+        "location2": "",
+        "location3": "",
+        "location4": "",
+        "location5": "",
+        "location6": "",
+        "location7": "",
+        "location8": "",
+        "location9": "",
+        "location10": "",
+        "location11": "",
+        "location12": "",
+        "location13": "",
+        "location14": "",
+        "location15": "",
+        "location16": "",
+        "location17": "",
+        "location18": "",
+        "location19": "",
+        "location20": "",
+        "location21": "",
+        "location22": "",
+        "location23": "",
+        "location24": "",
+        "location25": "",
+        "location26": "",
+        "location27": "",
+        "location28": "",
         "roles": {
-            "the outing": {
-                "michael rosen": "Michael Rosen",
-                "the 15 year old banana": "The 15 Year Old Banana",
-                "harrybos grandad": "Harrybo's Grandad",
-                "david alexander": "David Alexander",
-                "ms goodell": "Ms Goodell",
-                "electronic rabit": "Electronic Rabit",
-                "vanilla ice": "Vanilla Ice"
+            "location1": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "squating slav alliance": {
-                "slowland": "Slowland",
-                "czechoslowvakia": "Czechoslowvakia",
-                "slowmania": "Slowmania",
-                "hungary": "Hungary",
-                "germany": "Germany :(",
-                "tuva": "Tuva",
-                "communist china": "Communist China"
+            "location2": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "linear algebra": {
-                "lrolen": "~lrolen",
-                "potato": "Potato",
-                "salt": "Salt",
-                "a wild sergei frolov": "A Wild Sergei Frolov",
-                "jambo coming out of the left field": "Jambo coming out of the left field",
-                "partha": "Partha",
-                "chriswhythefuckareyouhere": "Chris why the fuck are you here?"
+            "location3": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "league of legends": {
-                "wizard lizard": "Wizard Lizard",
-                "jewish karthus": "Jewish Karthus",
-                "renegnar": "Renegnar",
-                "jambo used to know this game": "Jambo used to know this game",
-                "ban brand": "Ban Brand",
-                "jobser not playing bliztcrank dafuq": "Jobser not playing Blitzcrank dafuq",
-                "diana the lesbian": "Diana the Lesbia"
+            "location4": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "reddit": {
-                "youtubehaiku": "r/youtubehaiku",
-                "the_donald": "r/the_donald",
-                "wallstreetbets": "r/wallstreetbets",
-                "wheredidthesodago": "r/wheredidthesodago",
-                "me_irl": "r/me_irl",
-                "youdontsurf": "r/youdontsurf",
-                "montageparodies": "r/montageparodies"
+            "location5": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "mathssoc": {
-                "jambo": "Jambo",
-                "autisticperson1": "Autistic Person 1",
-                "autisticperson2": "Autistic Person 2",
-                "autisticperson3": "Autistic Person 3",
-                "autisticperson4": "Autistic Person 4",
-                "the bitch who gave out for not putting away someone elses chess": "The Bitch who gave out for not putting away someone else's chess...",
-                "swap chess player": "Swap-Chess Player"
+            "location6": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "twin towers": {
-                "george bush": "George Bush",
-                "dick cheney": "Disk Cheney",
-                "harambe": "Harambe",
-                "osamba bin laden": "Osama Bin Lader",
-                "meme man": "Meme Man",
-                "thanks obama": "Thanks Obama",
-                "give us another one": "Give us another one!"
+            "location7": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "youtubehaiku": {
-                "enemy spotted": "Enemy Spotted",
-                "give us another one": "Give us another one!",
-                "the siren": "The Siren",
-                "jason bourne": "Jesus Christ That's Jason Bourne",
-                "dog_meme": "dog_meme.avi",
-                "cerceis potg": "Cercei's Play of the Game",
-                "magnum dong": "Magnum Dong"
+            "location8": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "junkensteins lecture theatre": {
-                "bifurnification diagram": "Bifurnification Diagram",
-                "the mandelbrot set'": "The Mandelbrot Set",
-                "junkensteins hairdresser": "Junkenstein's Hairdresser",
-                "a pair of well ironed leather trousers": "A Pair of Well Ironed Leather Trousers",
-                "a wild the potato": "A Wild The Potato",
-                "ben doing jambos homework": "Ben doing Jambo's Homework",
-                "professor stefan hutzler": "Professor Stefan Hutzler"
+            "location9": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "zaitsevs bedroom": {
-                "zaitsevs square matress": "Zaitsev's Square Matress",
-                "zaitsevs orthogonal matress": "Zaitsev's Orthogonal Matress",
-                "r/the_monoid": "r/the_monoid",
-                "the product of two groups": "The product of two groups",
-                "minus i squared equals 1": "Minus i squared equals 1",
-                "brian doesnt know what a homomorphism is": "Brian doesn't know what a homomorphism is...",
-                "ben hates sets": "Ben hates sets"
+            "location10": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "andrei paranachevs lecture theatre": {
-                "compute continuous integral": "Compute continuous integral",
-                "2 pi over 2 also known as pi": "2 pi over 2, also known as pi",
-                "any questions": "Any questions?",
-                "the fourier series": "The Fourier Series",
-                "the delta function": "The Delta Function",
-                "consider this function": "Consider this function",
-                "its just algebra": "Its just Algebra"
+            "location11": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "hotel": {
-                "doorman": "Doorman",
-                "security guard": "Security Guard",
-                "manager": "Manager",
-                "housekeeper": "Housekeeper",
-                "bartender": "Bartender",
-                "bellman": "Bellman",
-                "customer": "Customer"
+            "location12": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "military base": {
-                "deserter": "Deserter",
-                "colonel": "Colonel",
-                "medic": "Medic",
-                "sniper": "Sniper",
-                "officer": "Officer",
-                "tank engineer": "Tank Engineer",
-                "soldier": "Soldier"
+            "location13": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "movie studio": {
-                "stunt man": "Stunt Man",
-                "sound engineer": "Sound Engineer",
-                "camera man": "Camera Man",
-                "director": "Director",
-                "costume artist": "Costume Artist",
-                "producer": "Producer",
-                "actor": "Actor"
+            "location14": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "ocean liner": {
-                "cook": "Cook",
-                "captain": "Captain",
-                "bartender": "Bartender",
-                "musician": "Musician",
-                "waiter": "Waiter",
-                "mechanic": "Mechanic",
-                "rich passenger": "Rich Passenger"
+            "location15": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "passenger train": {
-                "mechanic": "Mechanic",
-                "border patrol": "Border Patrol",
-                "train attendant": "Train Attendant",
-                "restaurant chef": "Restaurant Chef",
-                "train driver": "Train Driver",
-                "stoker": "Stoker",
-                "passenger": "Passenger"
+            "location16": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "pirate ship": {
-                "cook": "Cook",
-                "slave": "Slave",
-                "cannoneer": "Cannoneer",
-                "tied up prisoner": "Tied Up Prisoner",
-                "cabin boy": "Cabin Boy",
-                "brave captain": "Brave Captain",
-                "sailor": "Sailor"
+            "location17": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "polar station": {
-                "medic": "Medic",
-                "expedition leader": "Expedition Leader",
-                "biologist": "Biologist",
-                "radioman": "Radioman",
-                "hydrologist": "Hydrologist",
-                "meteorologist": "Meteorologist",
-                "geologist": "Geologist"
+            "location18": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "police station": {
-                "detective": "Detective",
-                "lawyer": "Lawyer",
-                "journalist": "Journalist",
-                "criminalist": "Criminalist",
-                "archivist": "Archivist",
-                "criminal": "Criminal",
-                "patrol officer": "Patrol Officer"
+            "location19": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "restaurant": {
-                "musician": "Musician",
-                "bouncer": "Bouncer",
-                "hostess": "Hostess",
-                "head chef": "Head Chef",
-                "food critic": "Food Critic",
-                "waiter": "Waiter",
-                "customer": "Customer"
+            "location20": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "school": {
-                "gym teacher": "Gym Teacher",
-                "principal": "Principal",
-                "security guard": "Security Guard",
-                "janitor": "Janitor",
-                "cafeteria lady": "Cafeteria Lady",
-                "maintenance man": "Maintenance Man",
-                "student": "Student"
+            "location21": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "service station": {
-                "manager": "Manager",
-                "tire specialist": "Tire Specialist",
-                "biker": "Biker",
-                "car owner": "Car Owner",
-                "car wash operator": "Car Wash Operator",
-                "electrician": "Electrician",
-                "auto mechanic": "Auto Mechanic"
+            "location22": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "space station": {
-                "engineer": "Engineer",
-                "alien": "Alien",
-                "pilot": "Pilot",
-                "commander": "Commander",
-                "scientist": "Scientist",
-                "doctor": "Doctor",
-                "space tourist": "Space Tourist"
+            "location23": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "submarine": {
-                "cook": "Cook",
-                "commander": "Commander",
-                "sonar technician": "Sonar Technician",
-                "electronics technician": "Electronics Technician",
-                "radioman": "Radioman",
-                "navigator": "Navigator",
-                "sailor": "Sailor"
+            "location24": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "supermarket": {
-                "cashier": "Cashier",
-                "butcher": "Butcher",
-                "janitor": "Janitor",
-                "security guard": "Security Guard",
-                "food sample demonstrator": "Food Sample Demonstrator",
-                "shelf stocker": "Shelf Stocker",
-                "customer": "Customer"
+            "location25": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "theater": {
-                "coat check lady": "Coat Check Lady",
-                "prompter": "Prompter",
-                "cashier": "Cashier",
-                "director": "Director",
-                "actor": "Actor",
-                "crew man": "Crew Man",
-                "audience member": "Audience Member"
+            "location26": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "university": {
-                "graduate student": "Graduate Student",
-                "professor": "Professor",
-                "dean": "Dean",
-                "psychologist": "Psychologist",
-                "maintenance man": "Maintenance Man",
-                "janitor": "Janitor",
-                "student": "Student"
+            "location27": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             },
-            "world war ii squad": {
-                "resistance fighter": "Resistance Fighter",
-                "radioman": "Radioman",
-                "scout": "Scout",
-                "medic": "Medic",
-                "cook": "Cook",
-                "imprisoned nazi": "Imprisoned Nazi",
-                "soldier": "Soldier"
+            "location28": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
             }   
         }
     }

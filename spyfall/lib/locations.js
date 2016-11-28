@@ -1,338 +1,338 @@
 locations = [
   {
-    name: 'locations.the outing',
+    name: 'locations.location1',
     roles: [
-      'locations.roles.theouting.michael rosen',
-      'locations.roles.theouting.the 15 year old banana',
-      'locations.roles.theouting.harrybos grandad',
-      'locations.roles.theouting.david alexander',
-      'locations.roles.theouting.ms goodell',
-      'locations.roles.theouting.electronic rabit',
-      'locations.roles.theouting.vanilla ice'
+      'locations.roles.location1.a',
+      'locations.roles.location1.b',
+      'locations.roles.location1.c',
+      'locations.roles.location1.d',
+      'locations.roles.location1.e',
+      'locations.roles.location1.f',
+      'locations.roles.location1.g'
     ]
   },
   {
-    name: 'locations.squating slav alliance',
+    name: 'locations.location2',
     roles: [
-      'locations.roles.squating slav alliance.slowland',
-      'locations.roles.squating slav alliance.czechoslowvakia',
-      'locations.roles.squating slav alliance.slowmania',
-      'locations.roles.squating slav alliance.hungary',
-      'locations.roles.squating slav alliance.germany',
-      'locations.roles.squating slav alliance.tuva',
-      'locations.roles.squating slav alliance.communist china'
+      'locations.roles.location2.a',
+      'locations.roles.location2.b',
+      'locations.roles.location2.c',
+      'locations.roles.location2.d',
+      'locations.roles.location2.e',
+      'locations.roles.location2.f',
+      'locations.roles.location2.g'
     ]
   },
   {
-    name: 'locations.linear algebra',
+    name: 'locations.location3',
     roles: [
-      'locations.roles.linear algebra.lrolen',
-      'locations.roles.linear algebra.potato',
-      'locations.roles.linear algebra.salt',
-      'locations.roles.linear algebra.a wild sergei frolov',
-      'locations.roles.linear algebra.jambocomingoutoftheleftfield',
-      'locations.roles.linear algebra.partha',
-      'locations.roles.linear algebra.chriswhythefuckareyouhere'
+      'locations.roles.location3.a',
+      'locations.roles.location3.b',
+      'locations.roles.location3.c',
+      'locations.roles.location3.d',
+      'locations.roles.location3.e',
+      'locations.roles.location3.f',
+      'locations.roles.location3.g'
     ]
   },
   {
-    name: 'locations.league of legends',
+    name: 'locations.location4',
     roles: [
-      'locations.roles.league of legends.wizard lizard',
-      'locations.roles.league of legends.jewish karthus',
-      'locations.roles.league of legends.renegnar',
-      'locations.roles.league of legends.jambo used to know this game',
-      'locations.roles.league of legends.ban brand',
-      'locations.roles.league of legends.jobser not playing bliztcrank dafuq',
-      'locations.roles.league of legends.diana the lesbian'
+      'locations.roles.location4.a',
+      'locations.roles.location4.b',
+      'locations.roles.location4.c',
+      'locations.roles.location4.d',
+      'locations.roles.location4.e',
+      'locations.roles.location4.f',
+      'locations.roles.location4.g'
     ]
   },
   {
-    name: 'locations.reddit',
+    name: 'locations.location5',
     roles: [
-      'locations.roles.reddit.youtubehaiku',
-      'locations.roles.reddit.the_donald',
-      'locations.roles.reddit.wallstreetbets',
-      'locations.roles.reddit.wheredidthesodago',
-      'locations.roles.reddit.me_irl',
-      'locations.roles.reddit.youdontsurf',
-      'locations.roles.reddit.montageparodies'
+      'locations.roles.location5.a',
+      'locations.roles.location5.b',
+      'locations.roles.location5.c',
+      'locations.roles.location5.d',
+      'locations.roles.location5.e',
+      'locations.roles.location5.f',
+      'locations.roles.location5.g'
     ]
   },
   {
-    name: 'locations.mathssoc',
+    name: 'locations.location6',
     roles: [
-      'locations.roles.mathssoc.jambo',
-      'locations.roles.mathssoc.autisticperson1',
-      'locations.roles.mathssoc.autisticperson2',
-      'locations.roles.mathssoc.autisticperson3',
-      'locations.roles.mathssoc.autisticperson4',
-      'locations.roles.mathssoc.the bitch who gave out for not putting away someone elses chess',
-      'locations.roles.mathssoc.swap chess player'
+      'locations.roles.location6.a',
+      'locations.roles.location6.b',
+      'locations.roles.location6.c',
+      'locations.roles.location6.d',
+      'locations.roles.location6.e',
+      'locations.roles.location6.f',
+      'locations.roles.location6.g'
     ]
   },
   {
-    name: 'locations.twin towers',
+    name: 'locations.location7',
     roles: [
-      'locations.roles.twin towers.george bush',
-      'locations.roles.twin towers.dick cheney',
-      'locations.roles.twin towers.harambe',
-      'locations.roles.twin towers.osamba bin laden',
-      'locations.roles.twin towers.meme man',
-      'locations.roles.twin towers.thanks obama',
-      'locations.roles.twin towers.give us another one'
+      'locations.roles.location7.a',
+      'locations.roles.location7.b',
+      'locations.roles.location7.c',
+      'locations.roles.location7.d',
+      'locations.roles.location7.e',
+      'locations.roles.location7.f',
+      'locations.roles.location7.g'
     ]
   },
   {
-    name: 'locations.youtubehaiku',
+    name: 'locations.location8',
     roles: [
-      'locations.roles.youtubehaiku.enemy spotted',
-      'locations.roles.youtubehaiku.give us another one',
-      'locations.roles.youtubehaiku.the siren',
-      'locations.roles.youtubehaiku.jason bourne',
-      'locations.roles.youtubehaiku.dog_meme',
-      'locations.roles.youtubehaiku.cerceis potg',
-      'locations.roles.youtubehaiku.magnum dong'
+      'locations.roles.location8.a',
+      'locations.roles.location8.b',
+      'locations.roles.location8.cn',
+      'locations.roles.location8.d',
+      'locations.roles.location8.e',
+      'locations.roles.location8.f',
+      'locations.roles.location8.g'
     ]
   },
   {
-    name: 'locations.junkensteins lecture theatre',
+    name: 'locations.location9',
     roles: [
-      'locations.roles.junkensteins lecture theatre.bifurnification diagram',
-      'locations.roles.junkensteins lecture theatre.the mandelbrot set',
-      'locations.roles.junkensteins lecture theatre.junkensteins hairdresser',
-      'locations.roles.junkensteins lecture theatre.a pair of well ironed leather trousers',
-      'locations.roles.junkensteins lecture theatre.a wild the potato',
-      'locations.roles.junkensteins lecture theatre.ben doing jambos homework',
-      'locations.roles.junkensteins lecture theatre.professor stefan hutzler'
+      'locations.roles.location9.a',
+      'locations.roles.location9.b',
+      'locations.roles.location9.c',
+      'locations.roles.location9.d',
+      'locations.roles.location9.e',
+      'locations.roles.location9.f',
+      'locations.roles.location9.g'
     ]
   },
   {
-    name: 'locations.zaitsevs bedroom',
+    name: 'locations.location10',
     roles: [
-      'locations.roles.zaitsevs bedroom.zaitsevs square matress',
-      'locations.roles.zaitsevs bedroom.zaitsevs orthogonal matress',
-      'locations.roles.zaitsevs bedroom.r/the_monoid',
-      'locations.roles.zaitsevs bedroom.the product of two groups',
-      'locations.roles.zaitsevs bedroom.minus i squared equals 1',
-      'locations.roles.zaitsevs bedroom.brian doesnt know what a homomorphism is',
-      'locations.roles.zaitsevs bedroom.ben hates sets'
+      'locations.roles.location10.a',
+      'locations.roles.location10.b',
+      'locations.roles.location10.c',
+      'locations.roles.location10.d',
+      'locations.roles.location10.e',
+      'locations.roles.location10.f',
+      'locations.roles.location10.g'
     ]
   },
   {
-    name: 'locations.andrei paranachevs lecture theatre',
+    name: 'locations.location11',
     roles: [
-      'locations.roles.andrei paranachevs lecture theatre.compute continuous integral',
-      'locations.roles.andrei paranachevs lecture theatre.2 pi over 2 also known as pi',
-      'locations.roles.andrei paranachevs lecture theatre.any questions',
-      'locations.roles.andrei paranachevs lecture theatre.the fourier series',
-      'locations.roles.andrei paranachevs lecture theatre.the delta function',
-      'locations.roles.andrei paranachevs lecture theatre.consider this function',
-      'locations.roles.andrei paranachevs lecture theatre.its just algebra'
+      'locations.roles.location11.a',
+      'locations.roles.location11.b',
+      'locations.roles.location11.c',
+      'locations.roles.location11.d',
+      'locations.roles.location11.e',
+      'locations.roles.location11.f',
+      'locations.roles.location11.g'
     ]
   },
   {
-    name: 'locations.hotel',
+    name: 'locations.location12',
     roles: [
-      'locations.roles.hotel.doorman',
-      'locations.roles.hotel.security guard',
-      'locations.roles.hotel.manager',
-      'locations.roles.hotel.housekeeper',
-      'locations.roles.hotel.bartender',
-      'locations.roles.hotel.bellman',
-      'locations.roles.hotel.customer'
+      'locations.roles.location12.a',
+      'locations.roles.location12.b',
+      'locations.roles.location12.c',
+      'locations.roles.location12.d',
+      'locations.roles.location12.e',
+      'locations.roles.location12.f',
+      'locations.roles.location12.g'
     ]
   },
   {
-    name: 'locations.military base',
+    name: 'locations.location13',
     roles: [
-      'locations.roles.military base.deserter',
-      'locations.roles.military base.colonel',
-      'locations.roles.military base.medic',
-      'locations.roles.military base.sniper',
-      'locations.roles.military base.officer',
-      'locations.roles.military base.tank engineer',
-      'locations.roles.military base.soldier'
+      'locations.roles.location13.a',
+      'locations.roles.location13.b',
+      'locations.roles.location13.c',
+      'locations.roles.location13.d',
+      'locations.roles.location13.e',
+      'locations.roles.location13.f',
+      'locations.roles.location13.g'
     ]
   },
   {
-    name: 'locations.movie studio',
+    name: 'locations.location14',
     roles: [
-      'locations.roles.movie studio.stunt man',
-      'locations.roles.movie studio.sound engineer',
-      'locations.roles.movie studio.camera man',
-      'locations.roles.movie studio.director',
-      'locations.roles.movie studio.costume artist',
-      'locations.roles.movie studio.producer',
-      'locations.roles.movie studio.actor'
+      'locations.roles.location14.a',
+      'locations.roles.location14.b',
+      'locations.roles.location14.c',
+      'locations.roles.location14.d',
+      'locations.roles.location14.e',
+      'locations.roles.location14.f',
+      'locations.roles.location14.g'
     ]
   },
   {
-    name: 'locations.ocean liner',
+    name: 'locations.location15',
     roles: [
-      'locations.roles.ocean liner.cook',
-      'locations.roles.ocean liner.captain',
-      'locations.roles.ocean liner.bartender',
-      'locations.roles.ocean liner.musician',
-      'locations.roles.ocean liner.waiter',
-      'locations.roles.ocean liner.mechanic',
-      'locations.roles.ocean liner.rich passenger'
+      'locations.roles.location15.a',
+      'locations.roles.location15.b',
+      'locations.roles.location15.c',
+      'locations.roles.location15.d',
+      'locations.roles.location15.e',
+      'locations.roles.location15.f',
+      'locations.roles.location15.g'
     ]
   },
   {
-    name: 'locations.passenger train',
+    name: 'locations.location16',
     roles: [
-      'locations.roles.passenger train.mechanic',
-      'locations.roles.passenger train.border patrol',
-      'locations.roles.passenger train.train attendant',
-      'locations.roles.passenger train.restaurant chef',
-      'locations.roles.passenger train.train driver',
-      'locations.roles.passenger train.stoker',
-      'locations.roles.passenger train.passenger'
+      'locations.roles.location16.a',
+      'locations.roles.location16.b',
+      'locations.roles.location16.c',
+      'locations.roles.location16.d',
+      'locations.roles.location16.e',
+      'locations.roles.location16.f',
+      'locations.roles.location16.g'
     ]
   },
   {
-    name: 'locations.pirate ship',
+    name: 'locations.location17',
     roles: [
-      'locations.roles.pirate ship.cook',
-      'locations.roles.pirate ship.slave',
-      'locations.roles.pirate ship.cannoneer',
-      'locations.roles.pirate ship.tied up prisoner',
-      'locations.roles.pirate ship.cabin boy',
-      'locations.roles.pirate ship.brave captain',
-      'locations.roles.pirate ship.sailor'
+      'locations.roles.location17.a',
+      'locations.roles.location17.b',
+      'locations.roles.location17.c',
+      'locations.roles.location17.d',
+      'locations.roles.location17.e',
+      'locations.roles.location17.f',
+      'locations.roles.location17.g'
     ]
   },
   {
-    name: 'locations.polar station',
+    name: 'locations.location18',
     roles: [
-      'locations.roles.polar station.medic',
-      'locations.roles.polar station.expedition leader',
-      'locations.roles.polar station.biologist',
-      'locations.roles.polar station.radioman',
-      'locations.roles.polar station.hydrologist',
-      'locations.roles.polar station.meteorologist',
-      'locations.roles.polar station.geologist'
+      'locations.roles.location18.a',
+      'locations.roles.location18.b',
+      'locations.roles.location18.c',
+      'locations.roles.location18.d',
+      'locations.roles.location18.e',
+      'locations.roles.location18.f',
+      'locations.roles.location18.g'
     ]
   },
   {
-    name: 'locations.police station',
+    name: 'locations.location19',
     roles: [
-      'locations.roles.police station.detective',
-      'locations.roles.police station.lawyer',
-      'locations.roles.police station.journalist',
-      'locations.roles.police station.criminalist',
-      'locations.roles.police station.archivist',
-      'locations.roles.police station.criminal',
-      'locations.roles.police station.patrol officer'
+      'locations.roles.location19.a',
+      'locations.roles.location19.b',
+      'locations.roles.location19.c',
+      'locations.roles.location19.d',
+      'locations.roles.location19.e',
+      'locations.roles.location19.f',
+      'locations.roles.location19.g'
     ]
   },
   {
-    name: 'locations.restaurant',
+    name: 'locations.location20',
     roles: [
-      'locations.roles.restaurant.musician',
-      'locations.roles.restaurant.bouncer',
-      'locations.roles.restaurant.hostess',
-      'locations.roles.restaurant.head chef',
-      'locations.roles.restaurant.food critic',
-      'locations.roles.restaurant.waiter',
-      'locations.roles.restaurant.customer'
+      'locations.roles.location20.a',
+      'locations.roles.location20.b',
+      'locations.roles.location20.c',
+      'locations.roles.location20.d',
+      'locations.roles.location20.e',
+      'locations.roles.location20.f',
+      'locations.roles.location20.g'
     ]
   },
   {
-    name: 'locations.school',
+    name: 'locations.location21',
     roles: [
-      'locations.roles.school.gym teacher',
-      'locations.roles.school.principal',
-      'locations.roles.school.security guard',
-      'locations.roles.school.janitor',
-      'locations.roles.school.cafeteria lady',
-      'locations.roles.school.maintenance man',
-      'locations.roles.school.student'
+      'locations.roles.location21.a',
+      'locations.roles.location21.b',
+      'locations.roles.location21.c',
+      'locations.roles.location21.d',
+      'locations.roles.location21.e',
+      'locations.roles.location21.f',
+      'locations.roles.location21.g'
     ]
   },
   {
-    name: 'locations.service station',
+    name: 'locations.location22',
     roles: [
-      'locations.roles.service station.manager',
-      'locations.roles.service station.tire specialist',
-      'locations.roles.service station.biker',
-      'locations.roles.service station.car owner',
-      'locations.roles.service station.car wash operator',
-      'locations.roles.service station.electrician',
-      'locations.roles.service station.auto mechanic'
+      'locations.roles.location22.a',
+      'locations.roles.location22.b',
+      'locations.roles.location22.c',
+      'locations.roles.location22.d',
+      'locations.roles.location22.e',
+      'locations.roles.location22.f',
+      'locations.roles.location22.g'
     ]
   },
   {
-    name: 'locations.space station',
+    name: 'locations.location23',
     roles: [
-      'locations.roles.space station.engineer',
-      'locations.roles.space station.alien',
-      'locations.roles.space station.pilot',
-      'locations.roles.space station.commander',
-      'locations.roles.space station.scientist',
-      'locations.roles.space station.doctor',
-      'locations.roles.space station.space tourist'
+      'locations.roles.location23.a',
+      'locations.roles.location23.b',
+      'locations.roles.location23.c',
+      'locations.roles.location23.d',
+      'locations.roles.location23.e',
+      'locations.roles.location23.f',
+      'locations.roles.location23.g'
     ]
   },
   {
-    name: 'locations.submarine',
+    name: 'locations.location24',
     roles: [
-      'locations.roles.submarine.cook',
-      'locations.roles.submarine.commander',
-      'locations.roles.submarine.sonar technician',
-      'locations.roles.submarine.electronics technician',
-      'locations.roles.submarine.radioman',
-      'locations.roles.submarine.navigator',
-      'locations.roles.submarine.sailor'
+      'locations.roles.location24.a',
+      'locations.roles.location24.b',
+      'locations.roles.location24.c',
+      'locations.roles.location24.d',
+      'locations.roles.location24.e',
+      'locations.roles.location24.f',
+      'locations.roles.location24.g'
     ]
   },
   {
-    name: 'locations.supermarket',
+    name: 'locations.location25',
     roles: [
-      'locations.roles.supermarket.cashier',
-      'locations.roles.supermarket.butcher',
-      'locations.roles.supermarket.janitor',
-      'locations.roles.supermarket.security guard',
-      'locations.roles.supermarket.food sample demonstrator',
-      'locations.roles.supermarket.shelf stocker',
-      'locations.roles.supermarket.customer'
+      'locations.roles.location25.a',
+      'locations.roles.location25.b',
+      'locations.roles.location25.c',
+      'locations.roles.location25.d',
+      'locations.roles.location25.e',
+      'locations.roles.location25.f',
+      'locations.roles.location25.g'
     ]
   },
   {
-    name: 'locations.theater',
+    name: 'locations.location26',
     roles: [
-      'locations.roles.theater.coat check lady',
-      'locations.roles.theater.prompter',
-      'locations.roles.theater.cashier',
-      'locations.roles.theater.director',
-      'locations.roles.theater.actor',
-      'locations.roles.theater.crew man',
-      'locations.roles.theater.audience member'
+      'locations.roles.location26.a',
+      'locations.roles.location26.b',
+      'locations.roles.location26.c',
+      'locations.roles.location26.d',
+      'locations.roles.location26.e',
+      'locations.roles.location26.f',
+      'locations.roles.location26.g'
     ]
   },
   {
-    name: 'locations.university',
+    name: 'locations.location27',
     roles: [
-      'locations.roles.university.graduate student',
-      'locations.roles.university.professor',
-      'locations.roles.university.dean',
-      'locations.roles.university.psychologist',
-      'locations.roles.university.maintenance man',
-      'locations.roles.university.janitor',
-      'locations.roles.university.student'
+      'locations.roles.location27.a',
+      'locations.roles.location27.b',
+      'locations.roles.location27.c',
+      'locations.roles.location27.d',
+      'locations.roles.location27.e',
+      'locations.roles.location27.f',
+      'locations.roles.location27.g'
     ]
   },
   {
-    name: 'locations.world war ii squad',
+    name: 'locations.location28',
     roles: [
-      'locations.roles.world war ii squad.resistance fighter',
-      'locations.roles.world war ii squad.radioman',
-      'locations.roles.world war ii squad.scout',
-      'locations.roles.world war ii squad.medic',
-      'locations.roles.world war ii squad.cook',
-      'locations.roles.world war ii squad.imprisoned nazi',
-      'locations.roles.world war ii squad.soldier'
+      'locations.roles.location28.a',
+      'locations.roles.location28.b',
+      'locations.roles.location28.c',
+      'locations.roles.location28.d',
+      'locations.roles.location28.e',
+      'locations.roles.location28.f',
+      'locations.roles.location28.g'
     ]
   }
 ];
