@@ -1,0 +1,312 @@
+{
+    "ui": {
+        "welcome to spyfall": "Welcome to Spyfall",
+        "new game": "New Game",
+        "join game": "Join Game",
+        "waiting for players": "Waiting For Players...",
+        "access code": "Access code",
+        "join my spyfall game": "Join my Spyfall game!",
+        "start game": "Start Game",
+        "leave game": "Leave Game",
+        "show hide": "show/hide",
+        "you are the spy": "You are the spy!",
+        "you are not the spy": "You are <strong>not</strong> the spy!",
+        "the location": "The location",
+        "your role": "Your role",
+        "players": "Players",
+        "first": "1<span>st</span>",
+        "location reference": "Location Reference",
+        "end game": "End Game",
+        "enter your name": "Enter your name",
+        "create game": "Create",
+        "back": "Back",
+        "enter an access code": "Enter an access code",
+        "invalid access code": "Sorry, no game was found with the access code you provided!",
+        "join": "Join",
+        "footer": "<a href='http://international.hobbyworld.ru/catalog/25-spyfall/' target='_blank'>Spyfall</a> designed by Alexandr Ushan, published by <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>"
+    },
+    "locations": {
+        "location1": "",
+        "location2": "",
+        "location3": "",
+        "location4": "",
+        "location5": "",
+        "location6": "",
+        "location7": "",
+        "location8": "",
+        "location9": "",
+        "location10": "",
+        "location11": "",
+        "location12": "",
+        "location13": "",
+        "location14": "",
+        "location15": "",
+        "location16": "",
+        "location17": "",
+        "location18": "",
+        "location19": "",
+        "location20": "",
+        "location21": "",
+        "location22": "",
+        "location23": "",
+        "location24": "",
+        "location25": "",
+        "location26": "",
+        "location27": "",
+        "location28": "",
+        "roles": {
+            "location1": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location2": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location3": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location4": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location5": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location6": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location7": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location8": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location9": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location10": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location11": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location12": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location13": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location14": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location15": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location16": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location17": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location18": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location19": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location20": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location21": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location22": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location23": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location24": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location25": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location26": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location27": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            },
+            "location28": {
+                "a": "",
+                "b": "",
+                "c": "",
+                "d": "",
+                "e": "",
+                "f": "",
+                "g": ""
+            }   
+        }
+    }
+}
